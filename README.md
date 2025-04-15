@@ -1,6 +1,6 @@
 # Markdown Badge Generator
 
-![alt text](screenshot.png)
+![alt text](screenshots/screenshot_1.png)
 
 This web app creates personalized badges for your upcoming project by generating HTML and Markdown code. It utilizes the shields.io API for crafting these badges.
 
